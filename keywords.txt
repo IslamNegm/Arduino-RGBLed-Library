@@ -1,0 +1,166 @@
+#######################################
+# Syntax Coloring Map For GSM
+####################################### 
+# Class
+#######################################
+
+RGBLed	KEYWORD1	RGBLed
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+setColor	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+ 
+color_AliceBlue	LITERAL1
+color_AntiqueWhite	LITERAL1
+color_Aqua	LITERAL1
+color_Aquamarine	LITERAL1
+color_Azure	LITERAL1
+color_Beige	LITERAL1
+color_Bisque	LITERAL1
+color_Black	LITERAL1
+color_BlanchedAlmond	LITERAL1
+color_Blue	LITERAL1
+color_BlueViolet	LITERAL1
+color_Brown	LITERAL1	
+color_BurlyWood	LITERAL1	
+color_CadetBlue	LITERAL1
+color_Chartreuse	LITERAL1
+color_Chocolate	LITERAL1
+color_Coral	LITERAL1
+color_CornflowerBlue	LITERAL1
+color_Cornsilk	LITERAL1
+color_Crimson	LITERAL1
+color_Cyan	LITERAL1
+color_DarkBlue	LITERAL1
+color_DarkCyan	LITERAL1
+color_DarkGoldenRod	LITERAL1
+color_DarkGray	LITERAL1
+color_DarkGrey	LITERAL1
+color_DarkGreen	LITERAL1
+color_DarkKhaki	LITERAL1
+color_DarkMagenta	LITERAL1
+color_DarkOliveGreen	LITERAL1
+color_DarkOrange	LITERAL1
+color_DarkOrchid	LITERAL1
+color_DarkRed	LITERAL1
+color_DarkSalmon	LITERAL1
+color_DarkSeaGreen	LITERAL1
+color_DarkSlateBlue	LITERAL1
+color_DarkSlateGray	LITERAL1
+color_DarkSlateGrey	LITERAL1
+color_DarkTurquoise	LITERAL1
+color_DarkViolet	LITERAL1
+color_DeepPink	LITERAL1
+color_DeepSkyBlue	LITERAL1
+color_DimGray	LITERAL1
+color_DimGrey	LITERAL1
+color_DodgerBlue	LITERAL1
+color_FireBrick	LITERAL1
+color_FloralWhite	LITERAL1
+color_ForestGreen	LITERAL1
+color_Fuchsia	LITERAL1
+color_Gainsboro	LITERAL1
+color_GhostWhite	LITERAL1
+color_Gold	LITERAL1
+color_GoldenRod	LITERAL1
+color_Gray	LITERAL1
+color_Grey	LITERAL1
+color_Green	LITERAL1
+color_GreenYellow	LITERAL1
+color_HoneyDew	LITERAL1
+color_HotPink	LITERAL1
+color_IndianRed	LITERAL1
+color_Indigo	LITERAL1
+color_Ivory	LITERAL1
+color_Khaki	LITERAL1
+color_Lavender	LITERAL1
+color_LavenderBlush	LITERAL1
+color_LawnGreen	LITERAL1
+color_LemonChiffon	LITERAL1
+color_LightBlue	LITERAL1
+color_LightCoral	LITERAL1
+color_LightCyan	LITERAL1
+color_LightGoldenRodYellow	LITERAL1
+color_LightGray	LITERAL1
+color_LightGrey	LITERAL1
+color_LightGreen	LITERAL1
+color_LightPink	LITERAL1
+color_LightSalmon	LITERAL1
+color_LightSeaGreen	LITERAL1
+color_LightSkyBlue	LITERAL1
+color_LightSlateGray	LITERAL1
+color_LightSlateGrey	LITERAL1
+color_LightSteelBlue	LITERAL1
+color_LightYellow	LITERAL1
+color_Lime	LITERAL1
+color_LimeGreen	LITERAL1
+color_Linen	LITERAL1
+color_Magenta	LITERAL1
+color_Maroon	LITERAL1
+color_MediumAquaMarine	LITERAL1
+color_MediumBlue	LITERAL1
+color_MediumOrchid	LITERAL1
+color_MediumPurple	LITERAL1
+color_MediumSeaGreen	LITERAL1
+color_MediumSlateBlue	LITERAL1
+color_MediumSpringGreen	LITERAL1
+color_MediumTurquoise	LITERAL1
+color_MediumVioletRed	LITERAL1
+color_MidnightBlue	LITERAL1
+color_MintCream	LITERAL1
+color_MistyRose	LITERAL1
+color_Moccasin	LITERAL1
+color_NavajoWhite	LITERAL1
+color_Navy	LITERAL1
+color_OldLace	LITERAL1
+color_Olive	LITERAL1
+color_OliveDrab	LITERAL1
+color_Orange	LITERAL1
+color_OrangeRed	LITERAL1
+color_Orchid	LITERAL1
+color_PaleGoldenRod	LITERAL1
+color_PaleGreen	LITERAL1
+color_PaleTurquoise	LITERAL1
+color_PaleVioletRed	LITERAL1
+color_PapayaWhip	LITERAL1
+color_PeachPuff	LITERAL1
+color_Peru	LITERAL1
+color_Pink	LITERAL1
+color_Plum	LITERAL1
+color_PowderBlue	LITERAL1
+color_Purple	LITERAL1
+color_RebeccaPurple	LITERAL1
+color_Red	LITERAL1
+color_RosyBrown	LITERAL1
+color_RoyalBlue	LITERAL1
+color_SaddleBrown	LITERAL1
+color_Salmon	LITERAL1
+color_SandyBrown	LITERAL1
+color_SeaGreen	LITERAL1
+color_SeaShell	LITERAL1
+color_Sienna	LITERAL1
+color_Silver	LITERAL1
+color_SkyBlue	LITERAL1
+color_SlateBlue	LITERAL1
+color_SlateGray	LITERAL1
+color_SlateGrey	LITERAL1
+color_Snow	LITERAL1
+color_SpringGreen	LITERAL1
+color_SteelBlue	LITERAL1
+color_Tan	LITERAL1
+color_Teal	LITERAL1
+color_Thistle	LITERAL1
+color_Tomato	LITERAL1
+color_Turquoise	LITERAL1
+color_Violet	LITERAL1
+color_Wheat	LITERAL1
+color_White	LITERAL1
+color_WhiteSmoke	LITERAL1
+color_Yellow	LITERAL1
+color_YellowGreen	LITERAL1

@@ -7,10 +7,9 @@
   by : https://github.com/IslamNegm
 */
 
-#ifndef _RGBLED_H_
-#define _RGBLED_H_
+#ifndef RGBLED_H
+#define RGBLED_H
 #include <stdint.h>   /* For using the standard int datatypes */
-#include <string.h>   /* For the strlen() function */
 #include "webColorHEXCodes.h"
 
 
@@ -21,13 +20,17 @@ class RGBLed {
      *  0xFFF    >> apperviated format (small)
     */
     bool fullFormat = true;
+    /* Set debugData to true in the constuctor to be able
+     to print serial lines about the colors status*/
+    bool debugData = false; 
     
-    uint8_t getRedVal(int32_t HEXColor);
-    uint8_t getGreenVal(int32_t HEXColor);
-    uint8_t getBlueVal(int32_t HEXColor);
-    int32_t getHEXValFromStr (char * HEXStr);
+    uint8_t getRedVal(uint32_t HEXColor);
+    uint8_t getGreenVal(uint32_t HEXColor);
+    uint8_t getBlueVal(uint32_t HEXColor);
+    
   public: 
-    RGBLed (const int redPin, const int greenPin, const int bluePin);
-    void setColor(char *HEXColorStr);
+    RGBLed (const int redPinNo, const int greenPinNo, 
+            const int bluePinNo, bool enableDebug = false);
+    void setColor(uint32_t HEXColorStr);
 };
 #endif

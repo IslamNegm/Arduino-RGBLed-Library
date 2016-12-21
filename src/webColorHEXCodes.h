@@ -4,7 +4,6 @@
 /*Using LedColor namespace */
 namespace LedColor {
 	static const uint32_t AliceBlue = 0xF0F8FF;
-	static const uint32_t AliceBlue = 0xF0F8FF;
 	static const uint32_t AntiqueWhite = 0xFAEBD7;
 	static const uint32_t Aqua = 0x00FFFF;
 	static const uint32_t Aquamarine = 0x7FFFD4;

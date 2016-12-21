@@ -24,9 +24,9 @@ void setup() {
 }
 
 void loop() {
-  rgb.setColor(color_DarkBlue);
+  rgb.setColor(LedColor::DarkBlue);
   delay(1000);
-  rgb.setColor(color_DarkRed);
+  rgb.setColor(LedColor::DarkRed);
   delay(1000);
 }
 

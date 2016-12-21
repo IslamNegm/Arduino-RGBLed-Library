@@ -9,11 +9,12 @@
 
 /* Constructor */
 RGBLed::RGBLed(const int redPinNo, const int greenPinNo, 
-                const int bluePinNo, bool enableDebug = false) {
+                const int bluePinNo, bool enableDebug = false, bool fullHexFormat = true) {
   redPin = redPinNo;
   greenPin = greenPinNo;
   bluePin = bluePinNo;
   debugData = enableDebug;
+  fullFormat = fullHexFormat;
 
   pinMode(redPin  ,OUTPUT);   digitalWrite(redPin   ,HIGH);
   pinMode(greenPin,OUTPUT);   digitalWrite(greenPin ,HIGH);

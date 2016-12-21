@@ -10,7 +10,7 @@
 #ifndef RGBLED_H
 #define RGBLED_H
 #include <stdint.h>   /* For using the standard int datatypes */
-#include "webColorHEXCodes.h"
+
 
 
 class RGBLed {
@@ -30,7 +30,7 @@ class RGBLed {
     
   public: 
     RGBLed (const int redPinNo, const int greenPinNo, 
-            const int bluePinNo, bool enableDebug = false);
+            const int bluePinNo, bool enableDebug = false, bool fullHexFormat = true);
     void setColor(uint32_t HEXColorStr);
 };
 #endif

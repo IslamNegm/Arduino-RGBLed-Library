@@ -4,7 +4,7 @@
 # Class
 #######################################
 
-RGBLed	KEYWORD1	RGBLed
+RGBLed	KEYWORD1
 
 #######################################
 # Methods and Functions 
